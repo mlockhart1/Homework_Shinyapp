@@ -1,0 +1,12 @@
+name: nbaStats_App
+title: nbaStats_App
+username:
+account: michael-lockhart
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1479900
+bundleId: 2593045
+url: https://michael-lockhart.shinyapps.io/nbaStats_App/
+when: 1573860352.629
+asMultiple: FALSE
+asStatic: FALSE
